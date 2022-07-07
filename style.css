@@ -1,0 +1,64 @@
+body{
+
+    background-color: azure;
+}
+
+
+
+h1{
+font-size: 50px;
+color:rgb(104, 104, 104);
+margin-right: 200px;
+
+}
+
+
+.sec1 {
+        display : flex;
+        
+        position : sticky;
+        top : 0;
+        padding : 10px 0;
+    }
+
+        
+
+.d1{
+    flex:40%;
+    background-color: #F7CAC9;
+}
+.d2{
+
+    flex:60%;
+}
+.pic1{
+margin-right: 80px;
+border-image-width: 20px;
+margin-left: 80px;
+margin-top: 20px;
+height: 150px;
+border-radius: 50%;
+}
+.nom{
+    margin-top: 0;
+    color: rgb(73, 73, 73);
+    text-decoration:solid;
+    text-align: center;
+}
+.titre{
+    margin-top: 40px;
+color: rgb(73, 73, 73);
+text-decoration:solid;
+flex:40%;
+text-decoration: underline;
+margin-left: 0;
+
+
+}
+p{
+margin-top: 0px;
+font-size: 20px;
+margin-left: 0px;
+justify-content:left;
+
+}
